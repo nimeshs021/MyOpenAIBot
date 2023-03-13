@@ -1,10 +1,3 @@
-# run from Terminal command line
-#streamlit run /Volumes/NimeshSSD/nimesh/Documents/Nimesh/"Local Disk"/NIMESH_32GB/DBS/Nimesh/Personal/Nimesh/Data_Science_Harvard/Data_Science_Capstone/myOpenAIChatBot.py 
-
-#[browser]
-#    gatherUsageStats = false
-#~/.streamlit/config.toml
-
 import openai 
 import streamlit as st
 
